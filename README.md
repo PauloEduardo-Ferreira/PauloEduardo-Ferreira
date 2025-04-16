@@ -3,7 +3,7 @@ Formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento w
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript, ReactJS, TypeScript
-- 😄 Pronome: ele/dele
+
 
 
   
