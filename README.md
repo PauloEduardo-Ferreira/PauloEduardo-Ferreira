@@ -25,3 +25,7 @@ Formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento w
   <a href="https://www.linkedin.com/in/paulo-ferreira-02912a149" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloEduardo-Ferreira&show_icons=true&theme=dracula)
+
