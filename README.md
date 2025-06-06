@@ -1,4 +1,4 @@
-## Paulo Eduardo, 26 anos.
+## Paulo Eduardo, 27 anos.
 Formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web. Atualmente, estou aprofundando meus conhecimentos em JavaScript, HTML, CSS e ReactJS, buscando sempre me atualizar com as novas tendências do mercado. Apaixonado por tecnologia e inovação, estou em constante aprendizado para criar soluções eficientes e impactantes.
 
 - 🔭 Hoje trabalho com front-end
