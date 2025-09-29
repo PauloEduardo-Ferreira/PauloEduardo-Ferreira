@@ -38,10 +38,8 @@ Meu objetivo é contribuir ativamente com projetos sólidos, trabalhando com cla
 </div>
 
 ## 📊 Estatísticas
-
-<div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEduardo-Ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
- &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEduardo-Ferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEduardo-Ferreira&show_icons=true&theme=transparent&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEduardo-Ferreira&layout=compact&langs_count=7&theme=transparent"/>
+</div>
