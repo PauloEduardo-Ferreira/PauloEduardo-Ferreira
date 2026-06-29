@@ -1,8 +1,6 @@
 # Paulo Eduardo de Oliveira Ferreira
 
-Bem-vindo ao meu perfil no GitHub!  
-Sou desenvolvedor com foco em back-end utilizando **Java**, criando aplicações robustas, escaláveis e bem estruturadas.  
-Também possuo conhecimentos em front-end moderno, que utilizo como complemento para construção de aplicações completas.
+Desenvolvedor Java Back-end focado em Spring Boot, APIs REST e bancos de dados relacionais e NoSQL. Atualmente desenvolvendo projetos completos utilizando Java 17, Spring Boot, JPA/Hibernate, MySQL, PostgreSQL e MongoDB.
 
 ---
 
